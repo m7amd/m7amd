@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey, I'm Mohammad 👋🏽  
 
-<!--
-**m7amd/m7amd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 22-year-old developer based in Palestine, and I'm an indie Front-End developer. 
 
-Here are some ideas to get you started:
+- Check out my [website](https://5dmati.000webhostapp.com/index.html)
+ 
+## 📦 Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend Development:** `React` `scss` `JavaScript` `Bootstrap`
+ 
+**Version Control:** `Git` `GitLab` `Bitbucket`
+
+**Backend Development:** `PHP` `mysql` 
+ 
+ 
