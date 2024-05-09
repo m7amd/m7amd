@@ -2,7 +2,7 @@
 
 I'm a 22-year-old developer based in Palestine, and I'm an indie Front-End developer. 
 
-- Check out my [website](https://5dmati.000webhostapp.com/index.html)
+- Check out my [website](https://5dmatii.000webhostapp.com/index.html)
  
 ## 📦 Toolbox
 
