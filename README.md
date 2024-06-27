@@ -2,7 +2,7 @@
 
 I'm a 22-year-old developer based in Palestine, and I'm an indie Front-End developer. 
 
-- Check out my [website](https://5dmatii.000webhostapp.com/index.html)
+- Check out my [website](https://m7amd.github.io/Personal_Portfolio/)
  
 ## 📦 Toolbox
 
@@ -10,6 +10,6 @@ I'm a 22-year-old developer based in Palestine, and I'm an indie Front-End devel
  
 **Version Control:** `Git` `GitLab` `Bitbucket`
 
-**Backend Development:** `PHP` `mysql` 
+**Backend Development:** `PHP` `mysql` `Strapi`
  
  
