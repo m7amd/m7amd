@@ -6,9 +6,9 @@ I'm a 22-year-old developer based in Palestine, and I'm an indie Front-End devel
  
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `scss` `JavaScript` `Bootstrap`
+**Frontend Development:** `React` `scss` `JavaScript` `Bootstrap` `TailweindCSS`
  
-**Version Control:** `Git` `GitLab` `Bitbucket`
+**Version Control:** `Git` `Github`
 
 **Backend Development:** `PHP` `mysql` `Strapi`
  
